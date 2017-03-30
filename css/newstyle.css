@@ -1,0 +1,9 @@
+
+/*!important overrides any others */
+
+.pager li .active_link {
+    background-color: #eee !important;  
+
+
+}
+
